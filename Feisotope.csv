@@ -1,3 +1,4 @@
-Isotope,Mass,Relative abundance,Mass tolerance,Ratio tolerance,Required?
-54Fe,53.939066,57824.585,0.003,1.4,Y
-56Fe,55.934394,907722.3022,0.003,1.4,Y
+Isotope,Mass,Relative abundance,Mass tolerance,Ratio tolerance,Required
+54Fe,53.939609,0.05845,NA,NA,Y
+56Fe,55.9349363,0.91754,0.003,1.3,Y
+Apo,-50.9161376,NA,NA,NA,O
